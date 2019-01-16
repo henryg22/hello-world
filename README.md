@@ -15,6 +15,4 @@ Here's an ordered list (notice the numbers after the first one don't matter)
 
 ## Students Spring 2019
 Add your favorite movie in this section:
-* Frozen
-* Rogue One
-* Avengers: Infinity War
+Lost in translation
